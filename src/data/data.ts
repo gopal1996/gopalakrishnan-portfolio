@@ -62,8 +62,18 @@ export let Data: IPortfolio = {
   about: {
     img: "/gopal.JPG",
     paragraphOne:
-      "Having 3+ years of experience in Frontend development with some knowledge of backend Technology. I have proficient knowledge in JavaScript and able to learn any technology within less time by exploring official documentation.",
-    paragraphTwo: "I am a Pet Lover, Traveler, PC Enthusiast ❤",
+      `With a solid background in frontend
+      development spanning 5 years, I possess
+      a comprehensive understanding of
+      backend and infra technologies as well.
+      My expertise lies in JavaScript, and I am
+      adept at swiftly mastering new
+      technologies by delving into official
+      documentation. I am driven by a passion
+      for continuous learning, which enables me
+      to adapt quickly and effectively to new
+      challenges in the tech industry.`,
+    paragraphTwo: "I am a Pet Lover, PC Enthusiast ❤",
     paragraphThree: "",
     resume:
       "https://drive.google.com/uc?export=download&id=1fFD4a6B50K29KafZlT1ZxRmhYilIuEYT",
