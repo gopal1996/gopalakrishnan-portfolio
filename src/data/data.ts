@@ -57,7 +57,7 @@ export interface IPortfolio {
 export let Data: IPortfolio = {
   title: "Hi, I am",
   name: "Gopalakrishnan C",
-  subtitle: "Lead Engineer",
+  subtitle: "Frontend Engineer",
   email: "krishnan.gopal34@gmail.com",
   about: {
     img: "/gopal.JPG",
