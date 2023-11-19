@@ -61,8 +61,7 @@ export let Data: IPortfolio = {
   email: "krishnan.gopal34@gmail.com",
   about: {
     img: "/gopal.JPG",
-    paragraphOne:
-      `With a solid background in frontend
+    paragraphOne: `With a solid background in frontend
       development spanning 5+ years, I possess
       a comprehensive understanding of
       backend and infra technologies as well.
@@ -106,7 +105,7 @@ export let Data: IPortfolio = {
     },
     {
       id: "resumebuilder",
-      img: "/PixelArt.png",
+      img: "/resumebuilder.png",
       title: "Resume Builder",
       info: "Resume Builder is an open source application where one can effectively build a single page professional resume.",
       info2:
@@ -129,7 +128,7 @@ export let Data: IPortfolio = {
     },
     {
       id: "microfrontend",
-      img: "/Event.jpg",
+      img: "/microfrontend.png",
       title: "Microfrontend - Module Federation",
       info: `Microfrontend and Module Federation are concepts and architectural patterns in web development that aim to modularize and scale frontend applications, especially in large and complex projects`,
       info2: "",
@@ -138,8 +137,8 @@ export let Data: IPortfolio = {
     },
     {
       id: "docker",
-      img: "/Event.jpg",
-      title: "Microfrontend - Module Federation",
+      img: "/docker.png",
+      title: "Docker - Under the hood",
       info: `Lets deep dive into the Docker and under the hood`,
       info2: "",
       url: "https://youtu.be/ryUW-EmRE6E?t=455",
