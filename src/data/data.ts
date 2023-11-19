@@ -75,7 +75,7 @@ export let Data: IPortfolio = {
     paragraphTwo: "I am a Pet Lover, PC Enthusiast ❤",
     paragraphThree: "",
     resume:
-      "https://drive.google.com/uc?export=download&id=1fFD4a6B50K29KafZlT1ZxRmhYilIuEYT",
+      "https://drive.google.com/file/d/1k9pd1fOzL2A9_NpFK-yQ2T3NkOCu8Ngq/view?usp=sharing",
   },
   blogs: [
     {
