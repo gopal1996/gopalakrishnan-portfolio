@@ -63,7 +63,7 @@ export let Data: IPortfolio = {
     img: "/gopal.JPG",
     paragraphOne:
       `With a solid background in frontend
-      development spanning 5 years, I possess
+      development spanning 5+ years, I possess
       a comprehensive understanding of
       backend and infra technologies as well.
       My expertise lies in JavaScript, and I am
@@ -104,17 +104,45 @@ export let Data: IPortfolio = {
       url: "https://gopal1996.github.io/PixelArt/",
       repo: "https://github.com/gopal1996/PixelArt",
     },
+    {
+      id: "resumebuilder",
+      img: "/PixelArt.png",
+      title: "Resume Builder",
+      info: "Resume Builder is an open source application where one can effectively build a single page professional resume.",
+      info2:
+        "Features: Customise with templates and themes!, Simple interface that helps you build quicky!, No sign up needed — go straight to building!, Your data never leaves your device",
+      url: "https://e-resume.vercel.app/",
+      repo: "https://github.com/sadanandpai/resume-builder",
+    },
   ],
   talks: [
     {
       id: "eventbubbling",
       img: "/Event.jpg",
       title: "Event Bubbling and Event Capturing",
-      info: ` We will have a deeper look on events and how events
+      info: `We will have a deeper look on events and how events
         works by understanding bubbling, capturing, stopping
         propagation, and more!`,
       info2: "",
       url: "https://www.youtube.com/watch?v=3k__0LmsdWo",
+      repo: "",
+    },
+    {
+      id: "microfrontend",
+      img: "/Event.jpg",
+      title: "Microfrontend - Module Federation",
+      info: `Microfrontend and Module Federation are concepts and architectural patterns in web development that aim to modularize and scale frontend applications, especially in large and complex projects`,
+      info2: "",
+      url: "https://youtu.be/4ot0ca1yBDU?t=3580",
+      repo: "",
+    },
+    {
+      id: "docker",
+      img: "/Event.jpg",
+      title: "Microfrontend - Module Federation",
+      info: `Lets deep dive into the Docker and under the hood`,
+      info2: "",
+      url: "https://youtu.be/ryUW-EmRE6E?t=455",
       repo: "",
     },
   ],
