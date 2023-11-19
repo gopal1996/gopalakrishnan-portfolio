@@ -18,8 +18,7 @@ export const About = ({ about }: { about: IAbout }) => {
               <div className="about-wrapper__image">
                 <Image
                   alt="profile picture"
-                  width={500}
-                  height={300}
+                  fill
                   style={{ objectFit: "contain" }}
                   src={img}
                   loading="lazy"

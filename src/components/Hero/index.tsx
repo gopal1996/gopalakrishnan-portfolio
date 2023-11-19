@@ -24,7 +24,7 @@ export const Hero = ({
         <div>
           <p className="hero-cta">
             <span className="cta-btn cta-btn--hero">
-              <Link href="about">About Me</Link>
+              <Link href="#about">About Me</Link>
             </span>
           </p>
         </div>
