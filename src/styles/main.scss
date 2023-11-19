@@ -1,0 +1,22 @@
+@import "~bootstrap/scss/bootstrap";
+
+@import "./abstracts/mixins";
+@import "./abstracts/variables";
+@import "./abstracts/helpers";
+
+@import "./base/base";
+@import "./base/typography";
+
+@import "./components/buttons";
+
+@import "./layout/sections";
+@import "./layout/footer";
+
+@import "./sections/about";
+@import "./sections/contact";
+@import "./sections/hero";
+@import "./sections/projects";
+@import "./sections/blog";
+@import "./sections/talk";
+
+@import "./vendor/css/font-awesome.min.css";
